@@ -1,0 +1,8 @@
+Goal:
+1) Have a way to record great coffee spots
+2) Organize by city
+3) Rate on a few metrics
+    a) Vibe/Interior
+    b) Coffee quality
+    c) Art work
+    d) Study/Hangout spot
